@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PPI_2024_1\\pagina\\CareMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5905450-14D6-439C-A2D9-4CFBDA75122D}|Server\\CareMod.Server.csproj|c:\\ppi_2024_1\\pagina\\caremod\\server\\controllers\\seleccionarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5905450-14D6-439C-A2D9-4CFBDA75122D}|Server\\CareMod.Server.csproj|solutionrelative:server\\controllers\\seleccionarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB81642C-638A-40FC-8489-D4BCB9C55081}|Repositorio\\Repositorio.csproj|c:\\ppi_2024_1\\pagina\\caremod\\repositorio\\seleccionarrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB81642C-638A-40FC-8489-D4BCB9C55081}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\seleccionarrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB81642C-638A-40FC-8489-D4BCB9C55081}|Repositorio\\Repositorio.csproj|c:\\ppi_2024_1\\pagina\\caremod\\repositorio\\iseleccionarrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB81642C-638A-40FC-8489-D4BCB9C55081}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\iseleccionarrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24508DD-2CBE-4736-8D61-47826B1D4B05}|Shared\\CareMod.Shared.csproj|c:\\ppi_2024_1\\pagina\\caremod\\shared\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24508DD-2CBE-4736-8D61-47826B1D4B05}|Shared\\CareMod.Shared.csproj|solutionrelative:shared\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB81642C-638A-40FC-8489-D4BCB9C55081}|Repositorio\\Repositorio.csproj|c:\\ppi_2024_1\\pagina\\caremod\\repositorio\\editarrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB81642C-638A-40FC-8489-D4BCB9C55081}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\editarrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57BE3FF-7502-41CE-A064-374BD1A4F9E1}|Client\\CareMod.Client.csproj|c:\\ppi_2024_1\\pagina\\caremod\\client\\services\\seleccionardatosservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57BE3FF-7502-41CE-A064-374BD1A4F9E1}|Client\\CareMod.Client.csproj|solutionrelative:client\\services\\seleccionardatosservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5905450-14D6-439C-A2D9-4CFBDA75122D}|Server\\CareMod.Server.csproj|c:\\ppi_2024_1\\pagina\\caremod\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5905450-14D6-439C-A2D9-4CFBDA75122D}|Server\\CareMod.Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditarRepositorio.cs",
+              "DocumentMoniker": "C:\\PPI_2024_1\\pagina\\CareMod\\Repositorio\\EditarRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\EditarRepositorio.cs",
+              "ToolTip": "C:\\PPI_2024_1\\pagina\\CareMod\\Repositorio\\EditarRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\EditarRepositorio.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:55:12.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pacientes.cs",
+              "DocumentMoniker": "C:\\PPI_2024_1\\pagina\\CareMod\\Shared\\Pacientes.cs",
+              "RelativeDocumentMoniker": "Shared\\Pacientes.cs",
+              "ToolTip": "C:\\PPI_2024_1\\pagina\\CareMod\\Shared\\Pacientes.cs",
+              "RelativeToolTip": "Shared\\Pacientes.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:07:26.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleccionarController.cs",
+              "DocumentMoniker": "C:\\PPI_2024_1\\pagina\\CareMod\\Server\\Controllers\\SeleccionarController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\SeleccionarController.cs",
+              "ToolTip": "C:\\PPI_2024_1\\pagina\\CareMod\\Server\\Controllers\\SeleccionarController.cs",
+              "RelativeToolTip": "Server\\Controllers\\SeleccionarController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:05:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleccionarRepositorio.cs",
+              "DocumentMoniker": "C:\\PPI_2024_1\\pagina\\CareMod\\Repositorio\\SeleccionarRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\SeleccionarRepositorio.cs",
+              "ToolTip": "C:\\PPI_2024_1\\pagina\\CareMod\\Repositorio\\SeleccionarRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\SeleccionarRepositorio.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:14:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISeleccionarRepositorio.cs",
+              "DocumentMoniker": "C:\\PPI_2024_1\\pagina\\CareMod\\Repositorio\\ISeleccionarRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ISeleccionarRepositorio.cs",
+              "ToolTip": "C:\\PPI_2024_1\\pagina\\CareMod\\Repositorio\\ISeleccionarRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\ISeleccionarRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:00:49.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeleccionarDatosServicio.cs",
+              "DocumentMoniker": "C:\\PPI_2024_1\\pagina\\CareMod\\Client\\Services\\SeleccionarDatosServicio.cs",
+              "RelativeDocumentMoniker": "Client\\Services\\SeleccionarDatosServicio.cs",
+              "ToolTip": "C:\\PPI_2024_1\\pagina\\CareMod\\Client\\Services\\SeleccionarDatosServicio.cs",
+              "RelativeToolTip": "Client\\Services\\SeleccionarDatosServicio.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:34:19.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PPI_2024_1\\pagina\\CareMod\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\PPI_2024_1\\pagina\\CareMod\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAawCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:03:10.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

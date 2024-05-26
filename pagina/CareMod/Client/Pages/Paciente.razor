@@ -1,0 +1,105 @@
+﻿@page "/paciente"
+@using CareMod.Shared
+@using CareMod.Client.Services
+@inject ISeleccionarDatosServicio SeleccionarDatosServicio
+@inject IEditarDatosServicio EditarDatosServicio
+@inject IInsertarDatosServicio InsertarDatosServicio
+@using Microsoft.AspNetCore.Authorization;
+@attribute [Authorize(Roles = "Administrador")]
+
+@if (pacientes != null && pacientes.Any())
+{
+    <h4>pacientes</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Documento</th>
+                <th>Nombre Completo</th>
+                <th>Tipo de documento</th>
+                <th>Fecha de nacimiento</th>
+                <th>RH</th>
+                <th>EPS</th>
+                <th>Tipo de Usuario</th>
+                <th>Direccion de Recidencia</th>
+                <th>Religion</th>
+                <th>Estatus</th>
+                <th>Creacion</th>
+                <th>Edicion</th>
+                <th>Alertas</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var paciente in pacientes)
+            {
+                <tr>
+                    <td>@paciente.RH</td>
+                    <td>
+                    
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay Usuarios registrados.</p>
+}
+
+@code {
+
+    private List<Pacientes> pacientes;
+    private Pacientes nuevoPaciente = new Pacientes();
+    private string mensaje;
+    private string tipoMensaje;
+    private bool esEdicion;
+
+
+    // Llamar al método de llenado del grid en el ciclo de vida de la página
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarPacientes(); // Método para cargar las personas desde el servicio
+    }
+    private async Task CargarPacientes()
+    {
+        try
+        {
+            var result = await SeleccionarDatosServicio.GetAllPacientes();
+            pacientes = result.ToList();
+            Console.WriteLine(pacientes);
+            LimpiarFormulario();
+        }
+        catch (Exception ex)
+        {
+            // Manejar otros errores aquí
+            Console.WriteLine($"Juan Este es Error al insertar el paciente: {ex.Message}");
+            mensaje = "Error al traer los pacientes registrados.";
+            tipoMensaje = "error";
+        }
+    }
+
+     private async Task EditarPaciente(Pacientes pacientes)
+    {
+        try
+        {
+            esEdicion = true;
+            nuevoPaciente = pacientes;
+
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error al editar el Paciente: {ex.Message}");
+            mensaje = "Error al editar el Paciente";
+            tipoMensaje = "error";
+
+        }
+
+    }
+
+    private void LimpiarFormulario()
+    {
+        nuevoPaciente = new Pacientes();
+    }
+}

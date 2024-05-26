@@ -1,0 +1,20 @@
+﻿@page "/Index"
+
+@using Microsoft.AspNetCore.Authorization;
+@using Microsoft.AspNetCore.Components.Authorization;
+@attribute [Authorize]
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hola Equipo</h1>
+
+Sea Bienvenido a su APP de gestión Hospitalaria
+<AuthorizeView>
+    <Authorized>
+        <h1>Bienvenido @context.User.Identity!.Name</h1>
+    </Authorized>
+</AuthorizeView>
+
+<h2>Este es el estado de los pacientes y Habitaciones</h2>
+
+<SurveyPrompt Title="Echale un vistazo a mi perfil profecional" />

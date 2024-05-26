@@ -1,0 +1,16 @@
+C:\PPI_2024_1\pagina\CareMod\Repositorio\bin\Debug\net7.0\Repositorio.deps.json
+C:\PPI_2024_1\pagina\CareMod\Repositorio\bin\Debug\net7.0\Repositorio.dll
+C:\PPI_2024_1\pagina\CareMod\Repositorio\bin\Debug\net7.0\Repositorio.pdb
+C:\PPI_2024_1\pagina\CareMod\Repositorio\bin\Debug\net7.0\CareMod.Shared.dll
+C:\PPI_2024_1\pagina\CareMod\Repositorio\bin\Debug\net7.0\CareMod.Shared.pdb
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Repositorio.csproj.AssemblyReference.cache
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Repositorio.AssemblyInfoInputs.cache
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Repositorio.AssemblyInfo.cs
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Repositorio.sourcelink.json
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Reposito.F4C96B80.Up2Date
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Repositorio.dll
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\refint\Repositorio.dll
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\Repositorio.pdb
+C:\PPI_2024_1\pagina\CareMod\Repositorio\obj\Debug\net7.0\ref\Repositorio.dll

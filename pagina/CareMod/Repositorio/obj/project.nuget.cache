@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0RMwbtk9FAqsJrHJpsRS1nVGaOZ8OVLjjsACx3vn63253KW8vF7XC0aRu4SguAK/RP3NWn86pvzsOU3DSFuVQ==",
+  "success": true,
+  "projectFilePath": "C:\\PPI_2024_1\\pagina\\CareMod\\Repositorio\\Repositorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan0\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\dapper.transaction\\2.0.123\\dapper.transaction.2.0.123.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\PPI_2024_1\pagina\CareMod\Shared\bin\Debug\net7.0\CareMod.Shared.deps.json
+C:\PPI_2024_1\pagina\CareMod\Shared\bin\Debug\net7.0\CareMod.Shared.dll
+C:\PPI_2024_1\pagina\CareMod\Shared\bin\Debug\net7.0\CareMod.Shared.pdb
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\CareMod.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\CareMod.Shared.AssemblyInfoInputs.cache
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\CareMod.Shared.AssemblyInfo.cs
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\CareMod.Shared.csproj.CoreCompileInputs.cache
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\CareMod.Shared.sourcelink.json
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\CareMod.Shared.dll
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\refint\CareMod.Shared.dll
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\CareMod.Shared.pdb
+C:\PPI_2024_1\pagina\CareMod\Shared\obj\Debug\net7.0\ref\CareMod.Shared.dll

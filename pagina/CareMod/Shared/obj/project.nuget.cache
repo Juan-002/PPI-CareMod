@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeKH3kJfP6wU13AG4Txi1Hfc8s0GDqWggzbkrYhbeik7h2b5wt9D2qLC4NsGeBvwk780Q8mt4Vc1Pmu7eKfgMQ==",
+  "success": true,
+  "projectFilePath": "C:\\PPI_2024_1\\pagina\\CareMod\\Shared\\CareMod.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\juan0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

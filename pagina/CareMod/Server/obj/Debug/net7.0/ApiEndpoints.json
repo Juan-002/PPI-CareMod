@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "CareMod.Server.Controllers.EditarController",
+    "Method": "PutPaciente",
+    "RelativePath": "api/Editar/tb_pacientes({persona})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rh",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pacientes",
+        "Type": "CareMod.Shared.Pacientes",
+        "IsRequired": true
+      },
+      {
+        "Name": "persona",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareMod.Server.Controllers.InsertarController",
+    "Method": "PostPersona",
+    "RelativePath": "api/Insertar/InsertarPaciente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pacientes",
+        "Type": "CareMod.Shared.Pacientes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareMod.Server.Controllers.SeleccionarController",
+    "Method": "GetAllPacientes",
+    "RelativePath": "api/Seleccionar/Pacientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareMod.Server.Controllers.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "api/Usuario/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "CareMod.Shared.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareMod.Server.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CareMod.Shared.WeatherForecast, CareMod.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
